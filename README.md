@@ -26,7 +26,10 @@ Built as a hands-on data analytics project to practice Excel dashboarding skills
 
 
 ## 📸 Preview
-![Dashboard Preview](dashboard-preview.png)           
+![Dashboard Preview](dashboard-preview.png)  
+
+
+![Dashboard Preview](Screenshot%202026-07-04%20134227.png)
 
 ## 🙋‍♀️ Author
 **Mathusri A**
