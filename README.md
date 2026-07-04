@@ -24,6 +24,10 @@ This dashboard tracks key call centre KPIs across three regions — **Cincinnati
 ## 🎯 Purpose
 Built as a hands-on data analytics project to practice Excel dashboarding skills — data visualization, KPI tracking, and interactive reporting — as part of my AI/Data journey.
 
+
+
+![Dashboard Preview](dashboard-preview.png)
+
 ## 📸 Preview
 *(dashboard screenshot ah idhu screenshot add pannunga)*
 
